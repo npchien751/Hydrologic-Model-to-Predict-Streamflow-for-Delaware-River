@@ -2,7 +2,7 @@
 # March 24th, 2016
 # Hydrologic Modeling - ERE 645
 # Homework 7
-# MAIN SCRIPT
+# Calibration SCRIPT
 
 # Goal: Create a hydrologic model to predict streamflow 
 #       for the Deleware River in Hale Eddy, NY.
